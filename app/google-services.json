@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63825978865",
+    "firebase_url": "https://myfirstfirebase-86a02.firebaseio.com",
+    "project_id": "myfirstfirebase-86a02",
+    "storage_bucket": "myfirstfirebase-86a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63825978865:android:191dbf1ceecb1770",
+        "android_client_info": {
+          "package_name": "agora.humano.seja.com.helloworldthings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63825978865-hf6pm885tc0vgcqmh0vmobfnvemm1r7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agora.humano.seja.com.helloworldthings",
+            "certificate_hash": "FB64FB34A2623C24A40A5F13687C7045E6E44335"
+          }
+        },
+        {
+          "client_id": "63825978865-n32v16eamg1uh51krv8fopobeiencqs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWdZjZFerqjdWFes9AY1-xts-vODWTH6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63825978865-n32v16eamg1uh51krv8fopobeiencqs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
